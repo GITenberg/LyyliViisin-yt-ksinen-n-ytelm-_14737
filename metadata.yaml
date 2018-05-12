@@ -1,0 +1,32 @@
+_repo: LyyliViisin-yt-ksinen-n-ytelm-_14737
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willman, Elvira
+    aliases:
+    - Willman-Eloranta, Elvira
+    - Willman, Agnes Elvira Maria
+    birthdate: 1875
+    deathdate: 1925
+    gutenberg_agent_id: '5657'
+    url: http://www.gutenberg.org/2009/agents/5657
+    wikipedia: http://fi.wikipedia.org/wiki/Elvira_Willman-Eloranta
+description: ''
+gutenberg_issued: '2005-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14737'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Drama'
+title: 'Lyyli
+
+  Viisinäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/14737
